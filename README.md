@@ -1,6 +1,5 @@
-
+![My Screenshot](https://github.com/shetty12/IMDB_Movie_analysis_etl/blob/main/Flow%20Chart.png)
 # IMDB Movies Project
-
 
 Tools Used: Talend, MSSQL Server, Alteryx, Power BI, MySQL, Tableau, SSIS, Azure Database
 
