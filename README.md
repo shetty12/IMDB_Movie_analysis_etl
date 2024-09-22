@@ -1,4 +1,4 @@
-![Description of Image](Flow Chart.png)
+
 # IMDB Movies Project
 
 
